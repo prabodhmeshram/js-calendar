@@ -45,7 +45,6 @@ Another.Utils = {
 				}else{
 					oDate = moment(oDate);
 				}
-				console.log(this.DAYMAP[sDay]);
 				if(oDate.get('Day') == this.DAYMAP[sDay]){
 					
 				}
@@ -53,6 +52,3 @@ Another.Utils = {
 		}
 	}
 };
-
-// console.log(Another.Utils.DateUtils.getNextDay());
-console.log(Another.Utils.DateUtils.getNextDay('asdasd','Sat'));
