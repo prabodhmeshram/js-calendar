@@ -5,6 +5,7 @@
 */
 
 //Todo :: Renaming with Application global
+//Rename it sooner or stuck with this !! Devil Laugh :O
 var Another = {};
 Another.Utils = {
 	DateUtils : {
